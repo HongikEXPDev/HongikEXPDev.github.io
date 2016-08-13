@@ -1,6 +1,20 @@
+.description {
+    position: relative;
+    background-color: #000;
+    top: 45px;
+    z-index: 90;
+}
+
+.snapshot {
+    position: relative;
+    z-index: 1;
+}
+
 .description h4 {
-    color: #AAA;
     text-align: center;
+    color: #FFF;
+    font-size: 25pt;
+    font-weight: 900;
 }
 
 .horizontal-slideshow img {
