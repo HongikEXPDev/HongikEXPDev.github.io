@@ -10,10 +10,9 @@
     z-index: 1;
 }
 
-.description h4 {
+.description h3 {
     text-align: center;
     color: #FFF;
-    font-size: 25pt;
     font-weight: 900;
 }
 
