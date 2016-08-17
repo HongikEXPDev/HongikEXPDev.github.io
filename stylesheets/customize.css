@@ -47,3 +47,16 @@
     right: auto;
     left: 10px;
 }
+
+.main-section {
+    color: #000;
+    font-weight: 900;
+}
+
+.sub-section {
+    color: #555;
+}
+
+.center {
+    text-align: center;
+}
